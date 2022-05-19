@@ -1,0 +1,10 @@
+print('This is new file------')
+
+print(5+5)
+print(10-3)
+print(3*9)
+print(10/3)
+print(10//3)
+print(25%5)
+print(2**2)
+print(3**3)

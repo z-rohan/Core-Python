@@ -1,0 +1,6 @@
+print('Hello world')
+print("My name is Rohan")
+print(5+5)
+print(10-8)
+print(5*3)
+print(10/3)
